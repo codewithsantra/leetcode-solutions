@@ -5,11 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/codewithsantra/leetcode-solutions/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/codewithsantra/leetcode-solutions/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/codewithsantra/leetcode-solutions/tree/master/0507-perfect-number) |
 ## Array
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/codewithsantra/leetcode-solutions/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/codewithsantra/leetcode-solutions/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/codewithsantra/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/codewithsantra/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/codewithsantra/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
@@ -44,5 +46,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/codewithsantra/leetcode-solutions/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/codewithsantra/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/codewithsantra/leetcode-solutions/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/codewithsantra/leetcode-solutions/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/codewithsantra/leetcode-solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
