@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/codewithsantra/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0204-count-primes](https://github.com/codewithsantra/leetcode-solutions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/codewithsantra/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/codewithsantra/leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/codewithsantra/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/codewithsantra/leetcode-solutions/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
