@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/codewithsantra/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/codewithsantra/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/codewithsantra/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/codewithsantra/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1480-running-sum-of-1d-array](https://github.com/codewithsantra/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/codewithsantra/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 ## Enumeration
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/codewithsantra/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/codewithsantra/leetcode-solutions/tree/master/0268-missing-number) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/codewithsantra/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -78,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/codewithsantra/leetcode-solutions/tree/master/0412-fizz-buzz) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/codewithsantra/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
