@@ -1,27 +1,20 @@
 class Solution {
     public List<Integer> findDisappearedNumbers(int[] nums) {
-        int n = nums.length;
-        int i = 0;
+       List<Integer> result = new ArrayList<>();
 
-        List<Integer> result = new ArrayList<>();
+        for (int i = 0; i < nums.length; i++) {
 
-        // Cyclic Sort
-        while (i < n) {
-            int correct = nums[i] - 1;
+            int index = Math.abs(nums[i]) - 1;
 
-            if (nums[i] != nums[correct]) {
-                int temp = nums[i];
-                nums[i] = nums[correct];
-                nums[correct] = temp;
-            } else {
-                i++;
+            if (nums[index] > 0) {
+                nums[index] = -nums[index];
             }
         }
 
-        // Find missing numbers
-        for (int j = 0; j < n; j++) {
-            if (nums[j] != j + 1) {
-                result.add(j + 1);
+        for (int i = 0; i < nums.length; i++) {
+
+            if (nums[i] > 0) {
+                result.add(i + 1);
             }
         }
 
