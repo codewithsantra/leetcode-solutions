@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/codewithsantra/leetcode-solutions/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/codewithsantra/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0078-subsets](https://github.com/codewithsantra/leetcode-solutions/tree/master/0078-subsets) |
 | [0162-find-peak-element](https://github.com/codewithsantra/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0204-count-primes](https://github.com/codewithsantra/leetcode-solutions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/codewithsantra/leetcode-solutions/tree/master/0268-missing-number) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/codewithsantra/leetcode-solutions/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/codewithsantra/leetcode-solutions/tree/master/0268-missing-number) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/codewithsantra/leetcode-solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Sorting
@@ -94,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1095-find-in-mountain-array](https://github.com/codewithsantra/leetcode-solutions/tree/master/1095-find-in-mountain-array) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/codewithsantra/leetcode-solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
